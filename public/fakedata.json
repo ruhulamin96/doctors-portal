@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fluoride Treatment",
+    "desc": "For early stage tooth decay – your dentist will talk to you about the amount of sugar in your diet and the times you eat. They may apply a fluoride gel, varnish or paste to the area",
+    "img": "./images/fluoride.png"
+  },
+  {
+    "name": "Cavity Treatment",
+    "desc": "For early stage tooth decay – your dentist will talk to you about the amount of sugar in your diet and the times you eat. They may apply a fluoride gel, varnish or paste to the area",
+    "img": "./images/cavity.png"
+  },
+  {
+    "name": "Whitening Treatment",
+    "desc": "For early stage tooth decay – your dentist will talk to you about the amount of sugar in your diet and the times you eat. They may apply a fluoride gel, varnish or paste to the area",
+    "img": "./images/whitening.png"
+  }
+]

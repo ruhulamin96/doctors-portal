@@ -1,11 +1,18 @@
-import React from 'react'
+import React from "react";
+import AppointmentBanner from "../AppointmentBanner/AppointmentBanner";
+import Banner from "../Banner/Banner";
+import Services from "../Services/Services";
+import Navigation from "../Shared/Navigartion/Navigation";
 
 function Home() {
-    return (
-        <div>
-            <h1>This is Home page</h1>
-        </div>
-    )
+  return (
+    <div>
+      <Navigation></Navigation>
+      <Banner></Banner>
+      <Services></Services>
+      <AppointmentBanner></AppointmentBanner>
+    </div>
+  );
 }
 
-export default Home
+export default Home;
