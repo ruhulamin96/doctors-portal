@@ -1,7 +1,9 @@
-# Getting Started with Create React App
+# Doctors Portal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Doctors Portal](https://doctors-portal-4493a.web.app/dashboard).
 
-## Available Scripts
+## Bullet Point
+1. thsi project is fully react base
+2. i have use google firebase authetication
+3. i have use mongo db for data store
 
-In the project directory, you can run:
